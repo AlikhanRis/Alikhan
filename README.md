@@ -6,7 +6,7 @@ for i in range(len(s)):
     n1=0
     t1=False
         if c in ['t']:
-            t1=True
+            t1=nifsuroBVKKKKKKKKKgfdfhdshfidoifadjfioasvb jcab j
         if c in ['o']:
             o1=True
         if c in ['n']:
