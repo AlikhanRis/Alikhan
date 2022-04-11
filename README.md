@@ -4,7 +4,7 @@ s=[input() for _ in range(int(input()))]
 r=[]
 for i in range(len(s)):
     n1=0
-    t1=False
+    t1=Falsenjasnasjkdasdakdhak
         if c in ['t']:
             t1=nifsuroBVKKKKKKKKKgfdfhdshfidoifadjfioasvb jcab j
         if c in ['o']:
