@@ -3,16 +3,10 @@
 s=[input() for _ in range(int(input()))]
 r=[]
 for i in range(len(s)):
-    a1=False
     n1=0
-    t1=False
-    o1=False
-    d=' '.join(s[i]).split(' ')
-    for c in d:
-        if c in ["a"]:
-            a1=True
+    t1=Falsenjasnasjkdasdakdhak
         if c in ['t']:
-            t1=True
+            t1=nifsuroBVKKKKKKKKKgfdfhdshfidoifadjfioasvb jcab j
         if c in ['o']:
             o1=True
         if c in ['n']:
